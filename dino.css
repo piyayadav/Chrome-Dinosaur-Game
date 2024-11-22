@@ -1,0 +1,27 @@
+body { 
+    font-family: "Creepster", system-ui;
+    text-align: center;
+    background: url("/img/dino_game_poster-min.jpg");
+    background-repeat: none;
+    background-position: center;
+    background-size: cover;
+}
+#board {
+    background-color: #c0c0c0;
+    border-bottom: 1px solid black;
+    margin-top: 30px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+div{
+    font-family: "Creepster", system-ui;
+    font-size: 50px;
+}
+h1{
+   font-size: 50px;
+   margin-top: 70px;
+}
+button{
+    font-family: "Creepster", system-ui;
+    word-spacing: 8px;
+}
